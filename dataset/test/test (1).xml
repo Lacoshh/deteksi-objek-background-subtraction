@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>test-_1_.jpg</filename>
+	<path>/my-project-name/test-_1_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>16</width>
+		<height>16</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>2</ymin>
+			<xmax>12</xmax>
+			<ymax>15</ymax>
+		</bndbox>
+	</object>
+</annotation>
